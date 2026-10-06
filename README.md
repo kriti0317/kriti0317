@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kriti 👋
 
-<!--
-**kriti0317/kriti0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+📊 Aspiring Data Analyst  
+🤖 Interested in AI/ML & Generative AI  
 
-Here are some ideas to get you started:
+I enjoy learning by building practical projects and solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- 📊 Data Analytics
+- 📗 Excel
+- 🗄️ SQL
+- 📈 Power BI
+- 🐍 Python
+- 🤖 AI/ML & Generative AI
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,mysql,git,github,vscode,docker" />
+</p>
+
+### Data & Analytics
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,mysql" /> </p>
+
+Excel · Power BI
