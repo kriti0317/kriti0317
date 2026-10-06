@@ -13,7 +13,14 @@ In the future, I'd like to explore **Data Science and AI/ML** as I build stronge
 ### 📊 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,postgres" />
+  <!-- Excel -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Microsoft Excel"/>
+
+  <!-- Power BI -->
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
+
+  <!-- Python, MySQL, PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
 </p>
 
 **Excel · SQL · Power BI · Data Analysis · Data Visualization · Statistics**
